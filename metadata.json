@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aceler.IA Dev - Engenharia de Prompt Segura",
+  "description": "Plataforma de pesquisa e benchmarking do framework de inovação de processos para Engenharia de Prompt Segura do IFPR Campus Assis Chateaubriand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
